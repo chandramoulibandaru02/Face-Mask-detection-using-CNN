@@ -1,6 +1,11 @@
 # Face-Mask-detection-using-CNN
 This project is a deep learning-based Face Mask Detection model that classifies whether a person is wearing a mask or not.
 
+The link of the data set is provided here 👇
+
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
+
 Built using TensorFlow/Keras and trained on image datasets using image_dataset_from_directory.
 
 ✅ Project Summary
